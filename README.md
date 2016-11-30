@@ -1,2 +1,4 @@
-# WarpingLCS
-Code for Warping Longest Common Subsequence for identification of certain movements in time series
+WarpingLCS
+==========
+
+The intent of this project was to do an optimal implementation of the WarpingLCS algorithm
